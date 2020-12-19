@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="45989" started-at="2020-12-19T09:35:40 IST" finished-at="2020-12-19T09:36:26 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="45989" started-at="2020-12-19T09:35:40 IST" finished-at="2020-12-19T09:36:26 IST">
+      <class name="testscripts.regression.ValidateLoginPOM">
+        <test-method status="PASS" signature="fileSetUp()[pri:0, instance:testscripts.regression.ValidateLoginPOM@2d8f65a4]" name="fileSetUp" is-config="true" duration-ms="1585" started-at="2020-12-19T09:35:40 IST" finished-at="2020-12-19T09:35:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fileSetUp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testscripts.regression.ValidateLoginPOM@2d8f65a4]" name="setUp" is-config="true" duration-ms="9819" started-at="2020-12-19T09:35:41 IST" finished-at="2020-12-19T09:35:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateLoginPOMTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testscripts.regression.ValidateLoginPOM@2d8f65a4]" name="validateLoginPOMTest" duration-ms="2147" started-at="2020-12-19T09:35:51 IST" data-provider="getData" finished-at="2020-12-19T09:35:53 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[reyaz009]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[reyaz123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Adactin.com - Search Hotel]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginPOMTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testscripts.regression.ValidateLoginPOM@2d8f65a4]" name="tearDown" is-config="true" duration-ms="1765" started-at="2020-12-19T09:35:54 IST" finished-at="2020-12-19T09:35:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testscripts.regression.ValidateLoginPOM@2d8f65a4]" name="setUp" is-config="true" duration-ms="7560" started-at="2020-12-19T09:35:55 IST" finished-at="2020-12-19T09:36:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateLoginPOMTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testscripts.regression.ValidateLoginPOM@2d8f65a4]" name="validateLoginPOMTest" duration-ms="842" started-at="2020-12-19T09:36:03 IST" data-provider="getData" finished-at="2020-12-19T09:36:04 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[reyaz009]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[reyaz456]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Adactin.com - Hotel Reservation System]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginPOMTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testscripts.regression.ValidateLoginPOM@2d8f65a4]" name="tearDown" is-config="true" duration-ms="802" started-at="2020-12-19T09:36:05 IST" finished-at="2020-12-19T09:36:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testscripts.regression.ValidateLoginPOM@2d8f65a4]" name="setUp" is-config="true" duration-ms="7584" started-at="2020-12-19T09:36:05 IST" finished-at="2020-12-19T09:36:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateLoginPOMTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testscripts.regression.ValidateLoginPOM@2d8f65a4]" name="validateLoginPOMTest" duration-ms="801" started-at="2020-12-19T09:36:13 IST" data-provider="getData" finished-at="2020-12-19T09:36:14 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[reyaz003]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[reyaz456]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Adactin.com - Hotel Reservation System]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginPOMTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testscripts.regression.ValidateLoginPOM@2d8f65a4]" name="tearDown" is-config="true" duration-ms="824" started-at="2020-12-19T09:36:14 IST" finished-at="2020-12-19T09:36:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testscripts.regression.ValidateLoginPOM@2d8f65a4]" name="setUp" is-config="true" duration-ms="7528" started-at="2020-12-19T09:36:15 IST" finished-at="2020-12-19T09:36:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateLoginPOMTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testscripts.regression.ValidateLoginPOM@2d8f65a4]" name="validateLoginPOMTest" duration-ms="755" started-at="2020-12-19T09:36:23 IST" data-provider="getData" finished-at="2020-12-19T09:36:23 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[reyaz003]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[reyaz123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Adactin.com - Hotel Reservation System]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginPOMTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testscripts.regression.ValidateLoginPOM@2d8f65a4]" name="tearDown" is-config="true" duration-ms="794" started-at="2020-12-19T09:36:24 IST" finished-at="2020-12-19T09:36:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="flushReports()[pri:0, instance:testscripts.regression.ValidateLoginPOM@2d8f65a4]" name="flushReports" is-config="true" duration-ms="653" started-at="2020-12-19T09:36:25 IST" finished-at="2020-12-19T09:36:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+      </class> <!-- testscripts.regression.ValidateLoginPOM -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
